@@ -2,7 +2,7 @@
 
 View the website at: https://3-aln.github.io/odin-recipes/
 
-This is a simple pure-HTML website containing some recipes I like.
+This is a simple website containing some recipes I like.
 
 The following are some skills I demonstrated through completing this project.
 
