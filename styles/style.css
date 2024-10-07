@@ -16,6 +16,10 @@ a:hover, a:visited:hover {
   color: #d9ffe4;
 }
 
+a:active, a:visited:active {
+  color: #578064;
+}
+
 a:visited {
   color: #6eb584;
 }
@@ -33,4 +37,7 @@ h1 {
   color: #b5b5b5;
   font-size: 14px;
   font-style: italic;
+}
+a:active, a:visited:active {
+  color: #578064;
 }
