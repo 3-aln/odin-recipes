@@ -15,3 +15,5 @@ Basic CSS:
 * Using type and class selectors, along with grouping selectors and descendant combinators.
 * Styling text, links with font properties (font family, weight, size, style).
 * Adding colours to various elements (text, links, backgrounds).
+* Understanding of the box model (padding, borders, margin).
+* Text alignment.
