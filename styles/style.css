@@ -17,6 +17,11 @@ body {
   margin-right: auto;
 }
 
+.recipe-img {
+  display: block; /* images are inline-block by default */
+  margin: 0 auto;
+}
+
 p, li, a {
   font-size: 16px;
 }
